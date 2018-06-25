@@ -1,0 +1,172 @@
+.uno{
+    position: absolute;
+    width: 100%;
+}
+
+.bg{
+    max-width: 100%;
+}
+
+.dos{
+    
+    position:relative;
+    top: 130px;
+    font-size: 40px;
+    color: antiquewhite;
+    text-align: center; 
+}
+.tres{
+    position: relative;
+    background-color: cyan;
+    font-family: "Roboto";
+    text-align: center;
+    top: 200px;
+    left: 550px;
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.cuatro{
+    position: relative;
+    background-color: yellowgreen;
+    font-family: "Roboto";
+    text-align: center;
+    top: 200px;
+    left: 560px;
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.cinco{
+    position: relative;
+    color: aliceblue;
+    font-size: 13px;
+    text-align: center;
+    top: 230px;
+}
+.titulo{
+    position: absolute;
+    top: 650px;
+    left: 400px;
+    color: gray;
+    text-align: center;
+    
+}
+.seis{
+    position: relative;
+    color: grey;
+    font-size: 13px;
+    text-align: center;
+    left: 10px;
+    top: 500px;
+}
+.siete{
+    position: relative;
+    width: 40px;
+    height: 50px;
+    text-align: center;
+}
+.family{
+    
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    top: 500px;
+    left: 400px;
+}
+.titulo_dos{
+    position: absolute;
+    text-align: center;
+    top: 1300px;
+    left: 460px;       
+    
+}
+.diez{
+    position: relative;
+    color: gray;
+    font-size: 13px;
+    text-align: center;
+    top: 1000px;
+}
+.once{
+    position: relative;
+    background-color: cyan;
+    font-family: "Roboto";
+    text-align: center;
+    top: 1000px;
+    left: 590px;
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.doce{
+    position: relative;
+    color: grey;
+    font-size: 13px;
+    text-align: center;
+    top: 1020px;
+}
+.line{
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    top: 1305px;
+    background-color: gray;
+    border-color: black 1px;
+}
+.linet{
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    top: 1509px;
+    background-color: gray;
+    border-color: black 1px;
+}
+.trece{
+    position: absolute;
+    text-align: center;
+    top: 1600px;
+    left: 360px; 
+}
+.list{
+    position: relative;
+    color: black;
+    font-size: 13px;
+    text-align: left;
+    top: 1200px;
+    left: 290px;
+}
+.catorce{
+    position: absolute;
+    text-align: center;
+    top: 1600px;
+    left: 660px; 
+}
+
+from{
+    position: absolute;
+    top: 1650px;
+    left: 600px;
+    width: 20%;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+}
+.uline{
+    position: absolute;
+    top: 1800px;
+    width: 100%;
+    height: 40px;
+    background-color: black
+}
+
+.des{
+    position: absolute;
+    top: 1800px;
+    left: 100px;
+    color: darkgoldenrod;
+    font-size:15px;
+        
+}
+    
+
